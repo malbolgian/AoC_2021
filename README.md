@@ -14,3 +14,4 @@ All problems can be found [here](https://adventofcode.com/2021).
 | 03 | [Binary Diagnostic](https://adventofcode.com/2021/day/3) | ⭐ ⭐ |
 | 04 | [Giant Squid](https://adventofcode.com/2021/day/4) | ⭐ ⭐ |
 | 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | ⭐ ⭐ |
+| 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | ⭐ ⭐ |
